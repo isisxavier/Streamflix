@@ -97,3 +97,14 @@ header nav a:hover{
 .filme-principal .container{
     width: 45%;
 }
+
+
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+.carrosel-filmes{
+    margin-top: 9px;
+}
