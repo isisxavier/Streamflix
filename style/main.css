@@ -41,6 +41,24 @@ header nav a:hover{
     color: #fff;
 }
 
+header .botao2{
+    background-color: rgba(0,0,0,.50);
+    border: none;
+    color: white;
+
+    padding: 10px 20px;
+    margin-right: 15px;
+    font-size: 13px;
+
+    cursor: pointer;
+    transition: .5s ease all;
+
+}
+
+.botao2:hover{
+    background-color: var(--vermelho);
+    color: black;
+}
 
 /*Filme principal*/
 
@@ -103,8 +121,19 @@ header nav a:hover{
     height: 100%;
     width: 100%;
     display: block;
+
+    
 }
 
-.carrosel-filmes{
-    margin-top: 9px;
+.carrosel-filmes, .carrosel-series, .carrosel-anim{
+    margin-top: 22px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+h1{
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    margin-left: 13px;
+    margin-bottom: 10px;
 }
