@@ -64,7 +64,7 @@ header .botao2{
 
 .filme-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url(/img/capa-arcane.jpg);
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url(../img/capa-arcane.jpg);
 
     height: 400px;
     background-size: cover;
